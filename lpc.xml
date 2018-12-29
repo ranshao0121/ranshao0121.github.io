@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <app>
+        <id>1</id>
+        <name>liupengcheng</name>
+        <age>27</age>
+    </app>
+    <app>
+        <id>2</id>
+        <name>lili</name>
+        <age>26</age>
+    </app>
+    <app>
+        <id>3</id>
+        <name>xingxing</name>
+        <age>99</age>
+    </app>
+</resources>
